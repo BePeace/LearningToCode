@@ -15,6 +15,4 @@ public interface DAinterface<T> {
     public boolean contains(T elem);
     public Iterator<T> iterator();
     public String toString();
-
-
 }
